@@ -6467,9 +6467,10 @@
     <wire from="(90,70)" to="(90,240)"/>
   </circuit>
   <circuit name="IC_74241">
-    <a name="appearance" val="logisim_evolution"/>
+    <a name="appearance" val="custom"/>
     <a name="circuit" val="IC_74241"/>
     <a name="circuitnamedboxfixedsize" val="true"/>
+    <a name="clabelfont" val="SansSerif plain 12"/>
     <a name="simulationFrequency" val="1.0"/>
     <appear>
       <text dominant-baseline="central" font-family="SansSerif" font-size="12" text-anchor="middle" x="80" y="92">BUF</text>
